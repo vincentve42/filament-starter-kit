@@ -9,7 +9,9 @@
 
 <h1>Installation</h1>
 1.Download the source code by git clone or downloading in release tags
-```git clone https://github.com/vincentve42/filament-starter-kit.git```
+```
+git clone https://github.com/vincentve42/filament-starter-kit.git
+```
 
 
 2.Run Migrate for Notifications
