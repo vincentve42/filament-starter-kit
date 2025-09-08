@@ -31,7 +31,17 @@ cd filament-starter-kit
 ### 2. Migrate Important Database
 
 ```bash
-git clone https://github.com/vincentve42/filament-starter-kit.git
-cd filament-starter-kit
+php artisan migrate
 
 ```
+
+### 3. Run the server
+
+```bash
+php artisan serve
+```
+### 4. Run the queue process
+```bash
+php artisan queue:work
+```
+
