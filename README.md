@@ -12,7 +12,7 @@
 ```
 git clone https://github.com/vincentve42/filament-starter-kit.git
 
-```
+
 <p>2.Run Migrate for Notifications</p>
 
 ```
