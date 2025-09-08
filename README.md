@@ -25,3 +25,13 @@
 ```bash
 git clone https://github.com/vincentve42/filament-starter-kit.git
 cd filament-starter-kit
+
+```
+
+### 2. Migrate Important Database
+
+```bash
+git clone https://github.com/vincentve42/filament-starter-kit.git
+cd filament-starter-kit
+
+```
