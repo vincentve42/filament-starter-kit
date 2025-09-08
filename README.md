@@ -8,14 +8,11 @@
 </p>
 
 <h1>Installation</h1>
-##1.Download the source code by git clone or downloading in release tags
-```
-git clone https://github.com/vincentve42/filament-starter-kit.git
-
-```
+1.Download the source code by git clone or downloading in release tags
+```git clone https://github.com/vincentve42/filament-starter-kit.git```
 
 
-<p>2.Run Migrate for Notifications</p>
+2.Run Migrate for Notifications
 
 ```
 php artisan migrate
